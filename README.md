@@ -1,5 +1,12 @@
 <h1 align="center">🤟Welcome to my Github🤟</h1>
-
+<h2>Hi, I'm Jake and I am a student training to be a full-stack developer at Codeup.</h2>
+  <ul>
+    <li>I am 19 years old and I graduated high school in 2020.</li>
+    <li>I am fairly new to coding and I am eager to learn and improve.</li>
+    <li>I am currently learning Java, CSS, and HTML among other various lagnuages.</li>
+    <li>When I am not studying or in class, I enjoy spending my spare time playing video games and being with my family.</li>
+    <li>I hope to one day develop apps or programs that are used around the world.</li>
+  </ul>
 
 
 
