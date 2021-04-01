@@ -11,7 +11,7 @@
 <img src="https://raw.githubusercontent.com/jakechadwell/jakechadwell/main/imgs/gojo.gif" width="100px">
 <img src="https://raw.githubusercontent.com/jakechadwell/jakechadwell/main/imgs/itadori.gif" width="100px">
 <img src="https://raw.githubusercontent.com/jakechadwell/jakechadwell/main/imgs/fushigiro.gif" width="100px">
-<img src="https://raw.githubusercontent.com/jakechadwell/jakechadwell/main/imgs/kugisaki.gif" width="100px">
+<img src="https://raw.githubusercontent.com/jakechadwell/jakechadwell/main/imgs/kugisaki.gif" width="100px" height="200px">
 
 
 <!--
