@@ -4,8 +4,8 @@
 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=jakechadwell&theme=material-palenight&show_icons=true&count_private=true&include_all_commits=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jakechadwell&theme=material-palenight)
+![Github stats](https://github-readme-stats.vercel.app/api?username=jakechadwell&theme=material-palenight&show_icons=true&count_private=true&include_all_commits=true&height=100px)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jakechadwell&theme=material-palenight&height=100px)
 <br>
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jakechadwell&repo=codeup-web-exercises&theme=material-palenight)](https://github.com/jakechadwell/codeup-web-exercises)
 <img src="https://raw.githubusercontent.com/jakechadwell/jakechadwell/main/giphy.gif" width="150px">
