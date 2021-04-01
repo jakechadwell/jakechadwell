@@ -8,7 +8,11 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jakechadwell&theme=material-palenight&height=100px)
 <br>
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jakechadwell&repo=codeup-web-exercises&theme=material-palenight)](https://github.com/jakechadwell/codeup-web-exercises)
-<img src="https://raw.githubusercontent.com/jakechadwell/jakechadwell/main/giphy.gif" width="150px">
+<img src="https://raw.githubusercontent.com/jakechadwell/jakechadwell/main/imgs/gojo.gif" width="100px">
+<img src="https://raw.githubusercontent.com/jakechadwell/jakechadwell/main/imgs/itadori.gif" width="100px">
+<img src="https://raw.githubusercontent.com/jakechadwell/jakechadwell/main/imgs/fushigiro.gif" width="100px">
+<img src="https://raw.githubusercontent.com/jakechadwell/jakechadwell/main/imgs/kugisaki.gif" width="100px">
+
 
 <!--
 **jakechadwell/jakechadwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
