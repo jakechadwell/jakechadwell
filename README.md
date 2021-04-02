@@ -11,7 +11,8 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=jakechadwell&theme=material-palenight&show_icons=true&count_private=true&locale=en" alt="Chadwell" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jakechadwell&theme=material-palenight&show_icons=true&count_private=true&locale=en" alt="Chadwell" />
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jakechadwell&theme=material-palenight&height=100px)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jakechadwell&repo=codeup-web-exercises&theme=material-palenight)](https://github.com/jakechadwell/codeup-web-exercises)
 <img src="https://raw.githubusercontent.com/jakechadwell/jakechadwell/main/imgs/gojo.gif" width="100px">
 <img src="https://raw.githubusercontent.com/jakechadwell/jakechadwell/main/imgs/itadori.gif" width="100px">
@@ -21,6 +22,9 @@
 
 <!--
 **jakechadwell/jakechadwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=jakechadwell&theme=material-palenight&show_icons=true&count_private=true&locale=en" alt="Chadwell" />
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jakechadwell&theme=material-palenight&show_icons=true&count_private=true&include_all_commits=true&height=100px)
 
