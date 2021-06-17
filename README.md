@@ -12,7 +12,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jakechadwell&theme=material-palenight&show_icons=true&count_private=true&include_all_commits=true&height=100px)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jakechadwell&theme=material-palenight&height=100px)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jakechadwell&repo=weathermap-project&theme=material-palenight)](https://github.com/jakechadwell/weathermap-project)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jakechadwell&repo=javascript-memory-game&theme=material-palenight)](https://github.com/jakechadwell/javascript-memory-game)
 <img src="https://raw.githubusercontent.com/jakechadwell/jakechadwell/main/imgs/gojo.gif" width="100px">
 <img src="https://raw.githubusercontent.com/jakechadwell/jakechadwell/main/imgs/itadori.gif" width="100px">
 <img src="https://raw.githubusercontent.com/jakechadwell/jakechadwell/main/imgs/fushigiro.gif" width="100px">
