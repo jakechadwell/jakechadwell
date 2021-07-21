@@ -1,5 +1,5 @@
 <h1 align="center">🤟Welcome to my Github🤟</h1>
-<h2>Hi, I'm Jake and I am a student training to be a full-stack developer at Codeup.</h2>
+<h2>Hi, I'm Jake and I am Full Stack Software Developer.</h2>
   <ul>
     <li>I am 19 years old and I graduated high school in 2020.</li>
     <li>I am always eager to learn and improve.</li>
