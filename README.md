@@ -1,7 +1,8 @@
 <h1 align="center">🤟Welcome to my Github🤟</h1>
 <h2>Hi, I'm Jake and I am Full Stack Software Developer.</h2>
   <ul>
-    <li>I am 20 years old and I graduated from Codeup in July of 2021.</li>
+    <li>I am 21 years old and I graduated from Codeup in July of 2021.</li>
+    <li>I currently work for HCL Technologies.</li>
     <li>I am always eager to learn and improve.</li>
     <li>I hope to one day develop apps or programs that are used around the world.</li>
   </ul>
